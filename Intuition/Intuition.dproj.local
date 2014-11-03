@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2012.01.12 21:00:30.687.pas,C:\Documents and Settings\Admin2\Мои документы\RAD Studio\Projects\Unit1.pas=E:\work\Razrabotka\Intuition\IntuitUnit.pas</Transaction>
+    <Transaction>2012.01.12 21:00:30.703.dfm,C:\Documents and Settings\Admin2\Мои документы\RAD Studio\Projects\Unit1.dfm=E:\work\Razrabotka\Intuition\IntuitUnit.dfm</Transaction>
+    <Transaction>2012.01.12 21:00:40.968.dproj,C:\Documents and Settings\Admin2\Мои документы\RAD Studio\Projects\Project1.dproj=E:\work\Razrabotka\Intuition\Intuition.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
